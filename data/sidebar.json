@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Disscussion Forum"
+    },
+    {
+        "id": 2,
+        "name": "Market Stories"
+    },
+    {
+        "id": 3,
+        "name": "Sentiment"
+    },
+    {
+        "id": 4,
+        "name": "Market"
+    },
+    {
+        "id": 5,
+        "name": "Sector"
+    },
+    {
+        "id": 6,
+        "name": "Watchlist"
+    },
+    {
+        "id": 7,
+        "name": "Events"
+    },
+    {
+        "id": 8,
+        "name": "News/Interview"
+    }
+]
